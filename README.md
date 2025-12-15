@@ -43,7 +43,7 @@ How did the V2 model compare directly against human experts?
 ### 3. Win Score Analysis
 Percentage of correct winner predictions for Week 12.
 
-![Win Score Analysis](win_score_average_v2.png)
+![Win Score Analysis](win_score_average_v2_RAW.png)
 
 > **Observation:** V2 correctly predicted the winner in **69%** of matchups, slightly underperforming the top human analysts and v1 (77%). This regression from V2 indicates that offensive EPA alone may overstate a team's advantage if their defensive vulnerabilities are ignored.
 
@@ -60,7 +60,7 @@ We broke down the V2 performance to see if it was "lucky" or "precise."
 A comparison of the average combined error (Spread + Point Differential).
 * **Lower Bar = Higher Precision.**
 
-![Average Error Graph](average_spread_differential_mean_v2.png)
+![Average Error Graph](average_spread_differential_mean_v2_RAW.png)
 
 > **Observation:** V2 edged out V1, and was consistently on par with the ESPN and NFL Analysts. The model had more context about how each of these teams played the game of football, and was able to showcase that knowledge in this category. Without defensive knowledge, though, it struggled to correctly predict the winner for these matchups, making it tricky for it to get more points.
 
