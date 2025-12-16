@@ -87,6 +87,8 @@ The pipeline has been upgraded to handle dual-sided ball metrics.
 ## Takeaways
 
 **V2 is the winner this week!**
+
+
 We can see that while V3 had slightly more context than V2, it was outperformed in most areas. While it is just one week, one differentiating factor was the injury reports: with each score prediction, V3 accounts for certain injuries that a team is dealing with that week, and who will be active versus inactive. 
 This can be the difference between a team winning and losing a game, but at the same time, it can also throw off the model when the backup players outperform the starters (which we saw this week). This leads to slight differences between V2 and V3, hence why the offensive-minded V2 was more accurate this week. 
 
