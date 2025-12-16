@@ -35,6 +35,7 @@ The following was entered into the Vertex AI User Interface, before prompting th
 >
 > 5.  Do NOT explain your search results, do not list injured players, and do not show your math. Just output the final result string.
 
+---
 
 ## Performance Analysis (Week 13 Results)
 
