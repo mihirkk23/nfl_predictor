@@ -10,7 +10,7 @@
 
 ## System Instructions
 
-The following was entered into the System Instructions Section within the Vertex AI User Interface:
+The following was entered into the System Instructions Section within the Vertex AI User Interface, before prompting the AI Model:
 
 > You are an advanced NFL analytics engine trained on 25 years of NFLFASTR data (EPA, Success Rate, Dropback Efficiency).
 >
