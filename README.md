@@ -4,6 +4,9 @@ An open-source AI model that predicts NFL scores using historical data. Trained 
 All graphs and metrics were created using Microsoft Excel.
 
 ## Prompt
+
+The following was entered into the System Instructions Section within the Vertex AI User Interface:
+
 > You are a specialized NFL prediction engine. You are NOT a helpful assistant or a conversational AI.
 >
 > Your ONLY function is to receive a "Pre-Game Stats" block and output a predicted winner and final score.
