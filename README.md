@@ -26,6 +26,22 @@ The following was entered into the System Instructions Section within the Vertex
 
 ---
 
+## Prompt
+
+The following prompt was entered into the Fine-Tuned Model, utilizing the System Instructions above:
+
+> Predict the final score for: Team A (Home) vs. Team B (Away).
+>
+> Advanced Pre-Game Stats (Season Average)
+> * **Team A (Home):** EPA/Play: 0.150 Success Rate: 48.0% Dropback EPA: 0.220 Rush EPA: 0.050
+> * **Team B (Away):** EPA/Play: -0.050 Success Rate: 41.0% Dropback EPA: -0.020 Rush EPA: -0.100
+>
+> Game Context
+> * Location: Team A (Home)
+> * Weather: N/A
+
+---
+
 ## The Hypothesis: V1 vs. V2
 
 This project is an iterative experiment in teaching an LLM to "understand" the American football game flow.
