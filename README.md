@@ -12,7 +12,7 @@
 
 The following was entered into the System Instructions Section within the Vertex AI User Interface, before prompting the AI Model:
 
-> You are an advanced NFL analytics engine trained on 25 years of NFLFASTR data (EPA, Success Rate, Dropback Efficiency).
+> You are an advanced NFL analytics engine trained on 25 years of `nflfastr` data (EPA, Success Rate, Dropback Efficiency).
 >
 >Your ONLY function is to analyze the provided "Advanced Pre-Game Stats" block and output a deterministic prediction.
 >
