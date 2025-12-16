@@ -3,7 +3,7 @@
 An open-source AI model that predicts NFL scores using historical data. Trained on **7,000+ games** (1999-2024) using Google's **Gemini 2.5 Flash** LLM via Vertex AI. 
 All graphs and metrics were created using Microsoft Excel.
 
-## Prompt
+## System Instructions
 
 The following was entered into the System Instructions Section within the Vertex AI User Interface, before prompting the AI Model:
 
@@ -18,6 +18,20 @@ The following was entered into the System Instructions Section within the Vertex
 > 4.  Your output MUST match the format from your training. It must be a plain text string: "Winner: [TEAM], Final Score: [TEAM] [SCORE], [TEAM] [SCORE]"
 >
 > This is a data-in, data-out task. Your job is to run the prediction pattern you were trained on. Do nothing else.
+
+## Prompt
+
+The following prompt was sent to the Fine-Tuned Model, based on the System Instructions above:
+
+> Predict the final score for the upcoming game: Team A (Home) vs. Team B (Away).
+>
+> Pre-Game Stats
+> * Team A (Home): Games Played: 10 PPG: 24.5
+> * Team B (Away): Games Played: 10 PPG: 21.0
+>
+> Game Context
+> * Location: Team A (Home)
+> * Weather: 70° F, 5 mph winds
 
 ## The Results
 Our model was tested against top ESPN analysts for Week 11 of the 2025 season. It was consistently on par with the human experts when evaluated on accuracy.
