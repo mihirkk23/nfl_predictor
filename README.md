@@ -80,7 +80,7 @@ The pipeline has been upgraded to handle dual-sided ball metrics.
 
 ### 3. Model Fine-Tuning
 * **Platform:** Google Vertex AI
-* **Model:** **Gemini 2.5 Flash-Lite**
+* **Model:** Gemini 2.5 Flash-Lite
 * **Training Data:** 7,500+ historical matchups (1999-2025), now including defensive contexts for every game.
 * **Injury Reports:** Full access to Week 13 Injury Reports for each of the matchups, adding injury context for each game.
 
