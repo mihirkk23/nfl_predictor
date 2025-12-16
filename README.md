@@ -12,7 +12,7 @@
 
 The following was entered into the Vertex AI User Interface, before prompting the AI Model:
 
-> You are an advanced NFL analytics engine trained on 25 years of NFLFASTR data (EPA, Success Rate, Defensive Metrics).
+> You are an advanced NFL analytics engine trained on 25 years of `nflfastr` data (EPA, Success Rate, Defensive Metrics).
 >
 > Your PRIMARY function is to analyze the provided "Advanced Pre-Game Stats" block and output a deterministic prediction based on historical patterns.
 >
