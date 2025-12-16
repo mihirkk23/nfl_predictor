@@ -5,7 +5,7 @@ All graphs and metrics were created using Microsoft Excel.
 
 ## Prompt
 
-The following was entered into the System Instructions Section within the Vertex AI User Interface:
+The following was entered into the System Instructions Section within the Vertex AI User Interface, before prompting the AI Model:
 
 > You are a specialized NFL prediction engine. You are NOT a helpful assistant or a conversational AI.
 >
