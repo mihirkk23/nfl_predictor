@@ -87,7 +87,7 @@ We benchmarked the models against top ESPN/NFL analysts (Maldonado, Moody, Walde
 
 ### Insight 1: Offense vs. Defense (Week 12)
 When we transitioned from V1 (PPG) to V2 (Offensive EPA only), accuracy actually **dropped**.
-* **The Finding:** V2 became a "Glass Cannon." It would predict massive scores for good offenses, failing to realize they were playing elite defenses.
+* **The Finding:** V2 unsurprisingly predicted massive scores for good offenses, failing to realize they were playing elite defenses.
 * **The Lesson:** "Smart" stats (EPA) are useless without context. This necessitated the build of V3.
 
 ![Sensitivity Analysis V1 vs V2](sensitivity_analysis_v1_vs_v2.png)
