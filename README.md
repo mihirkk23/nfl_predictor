@@ -10,7 +10,7 @@
 
 ## Performance Analysis (Week 13 Results)
 
-We benchmarked V3 against its predecessors (V1, V2) and top ESPN/NFL analysts during Week 13. The results were surprising: while V2 had a "hot hand" regarding raw wins, **V3 demonstrated superior mathematical stability.**
+We benchmarked V3 against its predecessors (V1, V2) and top ESPN/NFL analysts during Week 13. The results were surprising: while V3 should have been the dominant choice throughout, **V2 was the most successful AI Model in all regards this week.**
 
 ### 1. The "Battle of the AIs" (Sensitivity Analysis: V1 vs. V2 vs. V3)
 We compared how the three model generations handled error thresholds (0-26 average spread+differential points).
