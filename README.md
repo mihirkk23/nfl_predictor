@@ -59,7 +59,7 @@ How far off was the model on average? (Lower is better.)
 
 > **Observation:** V2 performed the best here with the closest margins out of all the AI Models. With that being said, Walder, Filice, and Moody all did a better job of keeping the spread + differential mean lower, showing a deeper understanding of the score dynamics this week. 
 >
-> **Why?** V3 has a lot of context going into each of the games, and sometimes the outcomes are not predictable. This is why the "randomness" of V1's PPG can sometimes work, since it is a simple and somewhat effective measure of a team's successfulness. V2 performed the best since it had all of the necessary
+> **Why?** V3 has a lot of context going into each of the games, and sometimes the outcomes are not predictable. This is why the "randomness" of V1's PPG can sometimes work, since it is a simple and somewhat effective measure of a team's success. V2 performed the best since it had all of the necessary
 > context on the offensive side of the ball, which dominated most of the games this week. Overall, though, the analysts were able to keep the scores closer than the AI Models were able to. 
 
 ---
