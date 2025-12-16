@@ -37,6 +37,26 @@ The following was entered into the Vertex AI User Interface, before prompting th
 
 ---
 
+## Prompt
+
+The following prompt was entered into the Fine-Tuned Model, utilizing the System Instructions above:
+
+> Predict the final score for: Team A (Home) vs. Team B (Away).
+>
+> Team A Stats (Season Avg)
+> * **OFFENSE:** EPA/Play: 0.150, Success Rate: 48.0%, Dropback EPA: 0.220, Rush EPA: 0.050
+> * **DEFENSE:** EPA/Play Allowed: 0.010, Success Rate Allowed: 43.0%, Dropback EPA Allowed: 0.050, Rush EPA Allowed: -0.050
+>
+> Team B Stats (Season Avg)
+> * **OFFENSE:** EPA/Play: -0.050, Success Rate: 41.0%, Dropback EPA: -0.020, Rush EPA: -0.100
+> * **DEFENSE:** EPA/Play Allowed: 0.080, Success Rate Allowed: 45.0%, Dropback EPA Allowed: 0.100, Rush EPA Allowed: 0.020
+>
+> Game Context
+> * Location: Team A (Home)
+> * Weather: N/A
+
+---
+
 ## Performance Analysis (Week 13 Results)
 
 We benchmarked V3 against its predecessors (V1, V2) and top ESPN/NFL analysts during Week 13. The results were surprising: while V3 should have been the dominant choice throughout, **V2 and V3 were largely similar in performance, with V2 having the upper hand.**
